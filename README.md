@@ -1,3 +1,3 @@
-<Uladzislau> <Shulha>
-<c_12>
-<s26944>
+Uladzislau Shulha
+c_12
+s26944
